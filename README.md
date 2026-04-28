@@ -9,3 +9,4 @@
 1. Форк и клонирование
 2. Настройка upstream
 3. Pull Request и ревью
+"Student B contribution" 
